@@ -2,10 +2,11 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&color=F7D354&background=1A1A1A&center=true&vCenter=true&width=1100&height=100&lines=BUILD.+BREAK.+REBUILD.;TURNING+IDEAS+INTO+REALITY.;CODE.+CREATE.+DOMINATE."
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00FF9C&background=0D1117&center=true&vCenter=true&width=1200&height=100&lines=BUILD.+BREAK.+REBUILD.;SYSTEM+LOADING...;CODE.+CREATE.+DOMINATE."
     alt="Typing SVG"
   />
 </p>
+
 
 
 
