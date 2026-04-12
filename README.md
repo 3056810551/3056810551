@@ -1,8 +1,12 @@
 <h1 align="center">Jimmy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&height=90&lines=BUILD.+BREAK.+REBUILD.;TURNING+IDEAS+INTO+REALITY.;CODE.+CREATE.+DOMINATE." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&color=F7D354&background=1A1A1A&center=true&vCenter=true&width=1100&height=100&lines=BUILD.+BREAK.+REBUILD.;TURNING+IDEAS+INTO+REALITY.;CODE.+CREATE.+DOMINATE."
+    alt="Typing SVG"
+  />
 </p>
+
 
 
 <p align="center">
