@@ -1,26 +1,44 @@
-# Hi there, I'm Jimmy 👋
+<h1 align="center">3056810551</h1>
+<p align="center"><i>Build. Break. Learn. Repeat.</i></p>
 
-我是一个正在学习和折腾各种项目的开发者。
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Tool-Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github" />
+</p>
 
-## About Me
-- 正在学习：JavaScript / Python / Web Development
-- 正在做：一些个人项目和实验
-- 兴趣方向：前端、自动化、效率工具
+---
 
-## Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
+### About Me
 
-## Featured Projects
-- [项目A](https://github.com/你的用户名/项目A) - 一句话介绍
-- [项目B](https://github.com/你的用户名/项目B) - 一句话介绍
-- [项目C](https://github.com/你的用户名/项目C) - 一句话介绍
+- Focused on web development, automation, and useful little tools
+- Learning by building real projects
+- Interested in clean UI, scripting, and efficiency
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=3056810551&show_icons=true&theme=default)
+---
 
-## Contact
-- Blog: https://your-site.com
-- Email: your@email.com
+### Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=3056810551&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3056810551&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### Featured Projects
+
+- [Project One](https://github.com/3056810551) - short intro here
+- [Project Two](https://github.com/3056810551) - short intro here
+- [Project Three](https://github.com/3056810551) - short intro here
+
+---
+
+### Contact
+
+<p align="center">
+  <a href="https://github.com/3056810551">
+    <img src="https://img.shields.io/badge/GitHub-3056810551-111?style=for-the-badge&logo=github" />
+  </a>
+</p>
