@@ -19,7 +19,7 @@
 - [项目C](https://github.com/你的用户名/项目C) - 一句话介绍
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=3056810551&show_icons=true&theme=default)
 
 ## Contact
 - Blog: https://your-site.com
